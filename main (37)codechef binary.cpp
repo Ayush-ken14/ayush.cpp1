@@ -14,7 +14,7 @@ int check(string s,int i,vector<int>v)
         {
             break;
         }
-        return (s,i,v);
+        return i;
 }
 int main()
 {
